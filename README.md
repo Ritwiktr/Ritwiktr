@@ -1,6 +1,5 @@
 # Hi there, I'm Ritwik! 👋
 
-
 ## 🚀 About Me
 
 I'm a passionate Flutter developer and a final-year B.Tech student at VIT Vellore. I love working on cutting-edge frontend development with a strong interest in AI/ML. Currently, I'm the Chief Design Officer (CDO) at [TranquilAI](https://tranquilai.in/).
@@ -48,7 +47,6 @@ I'm a passionate Flutter developer and a final-year B.Tech student at VIT Vellor
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritwik-tripathi-740246225/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritwiktr)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritwik.tr@gmail.com)
-
 
 ## 📊 Weekly Development Breakdown
 
