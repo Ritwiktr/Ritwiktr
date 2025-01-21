@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Flutter developer and a final-year B.Tech student at VIT Vellore. I love working on cutting-edge frontend development with a strong interest in AI/ML. Currently, I'm the Chief Design Officer (CDO) at [TranquilAI](https://tranquilai.in/).
+I'm a passionate Flutter developer and a final-year B.Tech student at VIT Vellore. I love working on cutting-edge frontend development with a strong interest in AI/ML. Currently, I'm the Chief Technology Officer (CTO) at [TranquilAI](https://tranquilai.in/).
 
 ## 🔧 Technologies & Tools
 
