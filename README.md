@@ -29,12 +29,7 @@ I'm a passionate Flutter developer and a final-year B.Tech student at VIT Vellor
 - A weather forecast app using the OpenWeatherAPI.
 - **Technologies:** Flutter, Dart, OpenWeatherAPI.
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritwiktr&show_icons=true&theme=tokyonight" alt="Ritwik's GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwiktr&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
-</div>
 
 ## 🏆 GitHub Trophies
 
