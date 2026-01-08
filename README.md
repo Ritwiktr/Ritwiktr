@@ -1,6 +1,6 @@
 # Hi there, I'm Ritwik! 👋
 
-> **Flutter Developer | AI/ML Enthusiast | CTO at TranquilAI | Final-Year B.Tech Student @ VIT Vellore**
+> **Flutter Developer | AI/ML Enthusiast | CTO at TranquilAI**
 
 ---
 
