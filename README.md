@@ -96,7 +96,7 @@ A beautiful, intuitive weather app with detailed forecasts and location-based se
 
 ## 🎓 Education & Experience
 
-**B.Tech Student** | VIT Vellore | Expected 2025  
+**B.Tech Student** | VIT Vellore | 2025  
 **CTO** | TranquilAI | Leading technical vision and product development
 
 ---
