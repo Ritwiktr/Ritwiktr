@@ -1,12 +1,12 @@
 # Hi there, I'm Ritwik! 👋
 
-> **Flutter Developer | AI/ML Enthusiast | CTO at TranquilAI**
+> **Flutter Developer | AI/ML Enthusiast |**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Mobile Developer** specializing in Flutter, with a strong focus on AI/ML integration and user experience design. As the CTO at [TranquilAI](https://tranquilai.in/), I lead the technical vision and development of innovative mobile solutions. I'm deeply interested in building products that make a real impact on people's lives through technology.
+I'm a passionate **Full-Stack Mobile Developer** specializing in Flutter, with a strong focus on AI/ML integration and user experience design. I've led the technical vision and development of innovative mobile solutions at [TranquilAI](https://tranquilai.in/). I'm deeply interested in building products that make a real impact on people's lives through technology.
 
 Currently exploring the intersection of **mobile development**, **artificial intelligence**, and **user-centric design**.
 
@@ -16,7 +16,7 @@ Currently exploring the intersection of **mobile development**, **artificial int
 
 🔨 **Build** scalable, beautiful mobile applications with Flutter  
 🤖 **Integrate** AI/ML models to create intelligent user experiences  
-🏗️ **Lead** technical teams and architectural decisions at TranquilAI  
+🏗️ **Lead** technical teams and architectural decisions  
 📚 **Learn** constantly about new technologies and best practices  
 💡 **Innovate** with cutting-edge frontend and backend solutions  
 
@@ -81,23 +81,20 @@ A beautiful, intuitive weather app with detailed forecasts and location-based se
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub & Contributions
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ritwiktr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ritwik's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwiktr&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+Check out my work and contributions on GitHub:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritwiktr&theme=onedark&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</div>
+[![GitHub](https://img.shields.io/badge/-View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritwiktr)
+
+Explore my repositories, contributions, and open-source projects directly on my GitHub profile.
 
 ---
 
 ## 🎓 Education & Experience
 
 **B.Tech Student** | VIT Vellore | 2025  
-**CTO** | TranquilAI | Leading technical vision and product development
+**CTO** | TranquilAI | Technical vision and product development
 
 ---
 
