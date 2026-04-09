@@ -116,13 +116,6 @@ Full-stack analytics dashboard for processing voter data with geospatial visuali
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritwiktr&show_icons=true&theme=default&hide_border=true" alt="Ritwik's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwiktr&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
-
 ---
 
 ## 🎓 Education
