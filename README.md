@@ -1,153 +1,165 @@
-# Hi there, I'm Ritwik! 👋
+<!-- 
+  Ritwik Tripathi | Flutter Developer | Mobile App Developer India | Full-Stack Developer | 
+  Next.js Developer | React Developer | AI Developer | Freelance Flutter Developer | 
+  Hire Flutter Developer | iOS App Developer | Android App Developer | SaaS Developer India |
+  VIT Vellore | Startup CTO India | AI Startup Founder
+-->
 
-> **CTO & Co-Founder @ Tranquil AI · Freelance Mobile & Full-Stack Developer**
+# Hi, I'm Ritwik Tripathi 👋
+
+> **Flutter Developer · Full-Stack Engineer · AI Startup Co-Founder · Freelancer**  
+> 📍 India · VIT Vellore · Open to freelance & full-time opportunities
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ritwiktr&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ritwiktr&label=Profile%20Views&color=0e75b6&style=flat" alt="Ritwik Tripathi GitHub profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Ritwik Tripathi
 
-I'm a **Full-Stack Mobile Developer** and **AI startup co-founder** with 2+ years of experience shipping production-grade Flutter apps, Next.js SaaS platforms, and AI-integrated products. I co-founded **[Tranquil AI](https://tranquilai.in/)** — an AI mental health companion that has reached **40,000+ downloads** and earned recognition as a **Top 10 Startup in India by NASSCOM**.
+I'm a **Flutter mobile app developer** and **full-stack engineer** from India with 2+ years of experience building and shipping production-grade apps and SaaS platforms. I co-founded **[Tranquil AI](https://tranquilai.in/)** — an AI-powered mental health app with **40,000+ downloads**, NASSCOM Top 10 recognition, and ₹5 lakh seed funding.
 
-I'm currently building AI-powered mobile apps and SaaS platforms for clients across India and internationally — blending clean architecture, modern cloud infrastructure, and great UX.
+I work as a **freelance Flutter developer** and **Next.js SaaS developer**, delivering mobile apps, web platforms, and AI-integrated products for clients across India and internationally.
 
-- 🔭 **Currently working on:** [Tranquil AI](https://tranquilai.in/) + Freelance SaaS & mobile projects
-- 🌱 **Exploring:** LLM fine-tuning, Kubernetes orchestration, and edge AI on mobile
-- 🏆 **Highlights:** NASSCOM Top 10 Startup · ₹5 lakh seed funded · 10+ App Store apps · 40K+ downloads
-- 📫 **Reach me at:** ritwik.tr@gmail.com
-- ⚡ **Fun fact:** I build things that reach real users — not just demo projects
+- 🔭 **Currently:** CTO at [Tranquil AI](https://tranquilai.in/) + Freelance mobile & SaaS projects
+- 🌱 **Learning:** LLM fine-tuning, Kubernetes, and on-device AI with Flutter
+- 💼 **Available for:** Freelance Flutter development · Full-stack SaaS projects · Contract roles
+- 🏆 **Recognition:** NASSCOM Top 10 Startup · 10+ App Store apps published · 40K+ downloads
+- 📫 **Contact:** ritwik.tr@gmail.com
+- ⚡ **Motto:** I ship to real users, not just to GitHub
 
 ---
 
-## 💼 What I Do
+## 💼 What I Build
 
-🔨 **Ship** scalable Flutter apps to the App Store and Play Store  
-🤖 **Integrate** AI/ML — Gemini, OpenAI, TensorFlow — into real products  
-🏗️ **Architect** full-stack SaaS platforms with Next.js, PostgreSQL, and RBAC  
-☁️ **Deploy** cloud-native apps using Docker, Kubernetes, and AWS  
-📊 **Lead** technical teams and own the product roadmap end-to-end  
+🔨 **Flutter apps** for iOS and Android — published to App Store and Google Play  
+🤖 **AI-integrated products** using Gemini, OpenAI, and TensorFlow  
+🏗️ **Full-stack SaaS platforms** with Next.js 14, PostgreSQL, and role-based access control  
+☁️ **Cloud-native deployments** using Docker, Kubernetes, and AWS (EC2, S3, Lambda)  
+📊 **Data dashboards** with React, Node.js, and PostgreSQL for real clients  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+**Mobile Development:** Flutter, Dart, Swift — iOS & Android apps, App Store Connect, Google Play Console
 
-### 🌐 Web & Frameworks
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Web & Frameworks:** Next.js 14, React, Node.js, TypeScript, Tailwind CSS, Flask
 
-### 🗄️ Backend & Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Backend & Databases:** PostgreSQL, Firebase (Auth, Firestore, FCM), Supabase, REST APIs
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+**AI / ML:** TensorFlow, OpenAI API, Gemini API, NLP, on-device ML
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+**DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda), GitHub Actions, CI/CD
+
+**Languages:** Dart, TypeScript, JavaScript, Python, Java, C/C++, SQL
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter developer"/>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift iOS developer"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js developer"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React developer"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow AI ML"/>
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/-Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini API"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS cloud developer"/>
+</p>
 
 ---
 
 ## 🎯 Featured Projects
 
 ### 🧠 [Tranquil AI](https://tranquilai.in) — AI Mental Health Companion
-*Co-Founded · CTO · May 2024 – Present*
+*CTO & Co-Founder · Flutter · Firebase · TensorFlow · OpenAI API*
 
-An intelligent mental wellness platform with AI therapist, journaling, sleep tracking, and guided meditation.
+AI-powered mental wellness app for iOS and Android with therapist chat, journaling, sleep tracking, and guided meditation. Built and scaled from zero to 40,000+ users.
 
-- **Impact:** 40,000+ downloads · NASSCOM Top 10 Startup in India · ₹5 lakh seed funded
-- **Tech:** Flutter · Firebase · TensorFlow · BLoC · OpenAI API · CI/CD
+- **40,000+ downloads** on Google Play Store
+- **NASSCOM Top 10 Startup in India** · ₹5 lakh seed funded
+- Recognised by Microsoft for Startups, Cisco, IIIT Bangalore, Startup India
 
 ---
 
 ### 🔮 [ChatAstro](https://play.google.com/store/apps/details?id=com.chatastro.app) — AI Vedic Astrology App
-*Live on Google Play Store*
+*Flutter · Dart · Firebase · Gemini API · RevenueCat · Live on Play Store*
 
-Real-time AI astrology chat app blending Vedic principles with Gemini API for personalised horoscope generation.
+AI astrology chat app combining Vedic principles with Gemini API for real-time personalised horoscope generation and birth chart analysis.
 
-- **Impact:** 1,000+ active installs in 4 weeks · 35% free-to-paid conversion · 42% Day-7 retention
-- **Tech:** Flutter · Dart · Firebase · Gemini API · RevenueCat
+- **1,000+ installs** in the first 4 weeks post-launch
+- **35% free-to-paid conversion rate** · 42% Day-7 user retention
 
 ---
 
-### 🐾 Pet Care Booking System — Multi-Vendor SaaS
-*International Client Project*
+### 🐾 Pet Care Booking System — Multi-Vendor SaaS Platform
+*Next.js 14 · PostgreSQL · Tailwind CSS · Stripe · JWT · RBAC*
 
-A full-featured SaaS booking marketplace for pet service providers with real-time availability and payments.
+SaaS booking marketplace for pet service providers (groomers, vets, trainers) with real-time slot availability, multi-role access, and Stripe payments.
 
-- **Impact:** 500+ daily transactions · sub-200ms API response · 200+ service providers
-- **Tech:** Next.js 14 · PostgreSQL · Tailwind CSS · Stripe · JWT · RBAC
+- **500+ daily transactions** at sub-200ms API response time
+- Secured data for **200+ registered service providers**
 
 ---
 
 ### 📊 [CPM Hub](https://www.cpmhub.tech/) — Elite Performance Management SaaS
-*International Client Project*
+*Next.js 14 · TypeScript · PostgreSQL · Role-Based Access Control*
 
-Multi-role SaaS dashboard for coaches, athletes, and admins tracking KPIs and performance analytics.
+Multi-role SaaS dashboard for coaches, athletes, and admins to track KPIs, training analytics, and performance reports.
 
-- **Impact:** 10,000+ data points managed · 50% faster report generation · 40% lower query latency
-- **Tech:** Next.js 14 · TypeScript · PostgreSQL · RBAC
+- Manages **10,000+ performance data points**
+- **50% faster report generation** · 40% reduced query latency
 
 ---
 
 ### 🗳️ [Voter Analysis Platform](https://pulse.esoftinnovations.in/#/login) — Electoral Analytics Dashboard
-*Client Project*
+*React · Node.js · PostgreSQL · Docker · Kubernetes · Chart.js*
 
-Full-stack analytics dashboard for processing voter data with geospatial visualisations and PDF reporting.
+Full-stack electoral analytics dashboard with geospatial constituency visualisations and PDF reporting. Containerized with Docker and orchestrated via Kubernetes.
 
-- **Impact:** 100,000+ voter records processed · 65% faster queries · 20+ analysts served
-- **Tech:** React · Node.js · PostgreSQL · Docker · Kubernetes · Chart.js
-
----
+- Processed **100,000+ voter records** across 50+ segments
+- **65% faster data retrieval** for 20+ campaign analysts
 
 ---
 
 ## 🎓 Education
 
 **B.Tech in Electronics & Communication Engineering**  
-Vellore Institute of Technology (VIT) · 2021 – 2025
+Vellore Institute of Technology (VIT), Vellore, India · 2021 – 2025
 
 ---
 
 ## 🏅 Certifications
 
-- 🎖️ Career Essentials in Generative AI — *Microsoft & LinkedIn* (2025)
-- 🎖️ AI Fundamentals — *IBM* (2024)
-- 🎖️ Google Cloud Fundamentals — *Google* (2023)
-- 🎖️ Crash Course on Python — *Google* (2023)
+- Career Essentials in Generative AI, *Microsoft & LinkedIn* (2025)
+- AI Fundamentals, *IBM* (2024)
+- Google Cloud Fundamentals, *Google* (2023)
+- Crash Course on Python, *Google* (2023)
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Ritwik Tripathi
+
+> 💼 Available for **freelance Flutter development**, **full-stack SaaS projects**, and **mobile app consulting**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ritwik-tripathi/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ritwik Tripathi LinkedIn"/>
   </a>
   <a href="mailto:ritwik.tr@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ritwik.tr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ritwik Tripathi email"/>
   </a>
   <a href="https://tranquilai.in/" target="_blank">
-    <img src="https://img.shields.io/badge/-Tranquil%20AI-6C63FF?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Tranquil%20AI-6C63FF?style=for-the-badge&logo=react&logoColor=white" alt="Tranquil AI startup"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><i>Building products that reach real users — one commit at a time.</i></p>
+<p align="center"><i>Ritwik Tripathi — Flutter Developer · AI Engineer · Startup Co-Founder · India</i></p>
