@@ -1,14 +1,45 @@
 <!-- 
-  Ritwik Tripathi | Flutter Developer | Mobile App Developer India | Full-Stack Developer | 
-  Next.js Developer | React Developer | AI Developer | Freelance Flutter Developer | 
-  Hire Flutter Developer | iOS App Developer | Android App Developer | SaaS Developer India |
-  VIT Vellore | Startup CTO India | AI Startup Founder
+  DEVELOPER IDENTITY:
+  Ritwik Tripathi | Ritwik Tripathi Developer | Ritwik Tripathi Flutter | Ritwiktr GitHub | Ritwik Tripathi Tranquil AI | Ritwik Tripathi Prayagraj | Ritwik Tripathi Allahabad
+
+  ROLES & HIRING SIGNALS:
+  Flutter Developer | Mobile App Developer India | Full-Stack Developer India |
+  Freelance Flutter Developer | Hire Flutter Developer | Flutter Developer for Hire |
+  Remote Flutter Developer | Contract Flutter Developer | Mobile App Developer for Hire |
+  Freelance Mobile Developer India | Full Stack Developer for Hire India |
+
+  TECH STACK SEARCHES:
+  Flutter Firebase Developer | Flutter Dart Developer | Flutter Next.js Developer |
+  Next.js Developer | Next.js 14 Developer | React Developer India | TypeScript Developer |
+  Node.js Developer | PostgreSQL Developer | Supabase Developer | Firebase Developer |
+  TensorFlow Developer | Gemini API Developer | OpenAI API Developer | AI Developer India |
+  Docker Kubernetes Developer | AWS Developer India | BLoC Flutter Developer |
+  RevenueCat Flutter | Cross-Platform App Developer | iOS Android App Developer |
+
+  PLATFORM SEARCHES:
+  App Store Developer | Google Play Store Developer | iOS App Developer India |
+  Android App Developer India | SaaS Developer India | SaaS Platform Developer |
+  Multi-Tenant SaaS Developer | Dashboard Developer | Analytics Dashboard Developer |
+
+  INDUSTRY & PROJECT TYPES:
+  AI Mental Health App Developer | Mental Health Startup India | Astrology App Developer |
+  AI Chatbot Developer | AI Startup Founder India | Startup CTO India |
+  Electoral Analytics Developer | Voter Analysis Dashboard | Pet Care App Developer |
+  Performance Management SaaS | EdTech Developer | HealthTech Developer India |
+
+  EDUCATION & RECOGNITION:
+  VIT Vellore Developer | B.Tech VIT | NASSCOM Top 10 Startup | NASSCOM Startup India |
+  Microsoft for Startups | Seed Funded Startup India | AI Startup India |
+
+  GENERAL HIGH-VOLUME:
+  Full Stack Developer India | Software Developer India | App Developer India |
+  Open To Work Developer | Hire Developer India | Best Flutter Developer India
 -->
 
 # Hi, I'm Ritwik Tripathi 👋
 
 > **Flutter Developer · Full-Stack Engineer · AI Startup Co-Founder · Freelancer**  
-> 📍 India · VIT Vellore · Open to freelance & full-time opportunities
+> 📍 India · Open to freelance & full-time opportunities
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ritwiktr&label=Profile%20Views&color=0e75b6&style=flat" alt="Ritwik Tripathi GitHub profile views" />
